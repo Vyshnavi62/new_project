@@ -1,0 +1,7 @@
+Agile is a project management and software development approach that aims to be more effective.
+
+It focuses on delivering smaller pieces of work regularly instead of one big launch.
+This allows teams to adapt to changes quickly and provide customer value faster.
+
+testing and development happen concurrrently
+
